@@ -1,5 +1,4 @@
 # Algorithmic Machine Learning
-tEST updqte
 This repository contains Jupyter Notebooks for the Algorithmic Machine Learning Course at Eurecom.
 
 ## Objectives of the course
